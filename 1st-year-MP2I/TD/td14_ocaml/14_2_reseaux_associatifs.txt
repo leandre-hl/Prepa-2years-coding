@@ -1,0 +1,2 @@
+Principe des tiroirs sur les degrés des noeuds.
+Si on a chaque degé distinct, qqun connait tout le monde et qqun connait personne. Absurde
